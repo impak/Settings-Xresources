@@ -1,0 +1,13 @@
+!! XRESOURCES
+
+URxvt.font: xft:monospace:size=8
+URxvt.scrollBar:false
+
+!! COLORSCHEME
+
+*.background:#141c21
+*.foreground:#c5c8c6
+
+!! Green
+*.color:#819400
+*.color:#a4bd00
