@@ -1,2 +1,2 @@
-# Minimal-Xresources
+# Settings-Xresources
 Personal and minimalist xresources settings
